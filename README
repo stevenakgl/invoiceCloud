@@ -1,0 +1,39 @@
+# InvoiceCloud Technical Challenge 
+# Selenium WebDriver Testing Project
+
+This project contains automated tests using Selenium WebDriver for testing web applications. The tests are written in C# and are designed to automate the interaction with web elements on the following web page.
+# https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fthe-internet.herokuapp.com%2Fadd_remove_elements%2F&data=05%7C01%7Ckbush%40engagesmart.com%7Cef2d7ce712c641813fce08da39ad6fcc%7C6ee1d96e4c9042a8be8af94078515d91%7C0%7C0%7C637885714312869839%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=CMNdgTqpOY%2B6OXex4jP8VnO3mWNzqKfwRi4ILbbxZQI%3D&reserved=0
+
+
+## Prerequisites
+
+- [Visual Studio Code](https://vscode.dev/) open it in your browser
+- [ChromeDriver](https://sites.google.com/chromium.org/driver/) executable added to your system's PATH.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/stevenakgl/invoiceCloud.git
+
+Open the solution in Visual Studio Code.
+Build the solution to ensure all dependencies are installed.
+Usage
+Open the solution in Visual Studio Code.
+Navigate to the test file (e.g., ElementExistenceTests.cs) in the Solution Explorer.
+Right-click on the test file and select "Run Tests" to execute the Selenium tests.
+Make sure you have a valid WebDriver installed (e.g., ChromeDriver) and configure the test cases accordingly.
+
+Tests
+The tests in this project cover various scenarios, including:
+
+Element existence checks
+Interaction with form fields
+Navigation between pages
+...
+
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+...
